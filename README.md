@@ -15,6 +15,8 @@ INSTALLED_APPS = [
     'nome-do-modulo-que-você-criou',
 ]
 
+```
+
 `python manage.py migrate`
 
 
