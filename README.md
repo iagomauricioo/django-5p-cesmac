@@ -2,7 +2,7 @@
 
 ### Criando super usuário
 
-<a href="https://www.digitalocean.com/community/tutorials/how-to-enable-and-connect-the-django-admin-interface">Link explicando</a>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-enable-and-connect-the-django-admin-interface">Link explicando (Digital ocean)</a>
 
 ```python 
 INSTALLED_APPS = [
